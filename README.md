@@ -6,6 +6,9 @@
 </p>
 
 ### Hrangett's Repository
+- Name : I EunYeong ( 이은영 )
+- Email : orangett217@gmail.com
+- 🌱 I’m currently learning C#
 
 <!--
 **Hrangett/Hrangett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
