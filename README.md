@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Hrangett's Repository
-- Name : I EunYeong ( 이은영 )
+- Name : Hrangett ( 이은영 )
 - Email : orangett217@gmail.com
 - 🌱 I’m currently learning C#
 
