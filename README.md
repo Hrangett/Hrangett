@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrangett&theme=synthwave&layout=compact"/>
 
 ## Tech Stack
-<h3 align='center'>Languages</h3>
+<h3>Languages</h3>
 <p>
   <a href="https://github.com/Hrangett/Study-WPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
 </p>
