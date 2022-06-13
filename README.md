@@ -10,6 +10,9 @@
 - Email : orangett217@gmail.com
 - 🌱 I’m currently learning C#
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hrangett&theme=synthwave&show_icons=true"/>
+
 <!--
 **Hrangett/Hrangett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
