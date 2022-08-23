@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h3>Languages</h3>
 <p>
   <a href="https://github.com/Hrangett/Study-WPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
-  <a href="https://github.com/Hrangett/ATM128A_MicrochipStudio" target="_blank"><img alt="ATM128A" src="https://img.shields.io/badge/#A8B9CC?style=flat&logo=c-sharp&logoColor=white"/></a>
+  <a href="https://github.com/Hrangett/ATM128A_MicrochipStudio" target="_blank"><img src="https://img.shields.io/badge/#A8B9CC?style=flat&logo=c-sharp&logoColor=white"/></a>
 
 </p>
 
