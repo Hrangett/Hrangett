@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Hrangett's Repository
 - Name : Hrangett ( 이은영 )
 - Email : orangett217@gmail.com
-- 🌱 I’m currently learning C#
+- 🌱
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hrangett&theme=synthwave&show_icons=true"/>
