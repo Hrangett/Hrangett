@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hrangett&theme=synthwave&show_icons=true"/>
 
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrangett&theme=synthwave&layout=compact"/>-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrangett&theme=synthwave&layout=compact"/>
 
 ## Tech Stack
 <h3>Languages</h3>
