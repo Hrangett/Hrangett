@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <p>
   <a href="https://github.com/Hrangett/Study-WPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img alt="C"   src="https://img.shields.io/badge/ATM128A-%23239120.svg?style=flat&logo=c&logoColor=white"/></a>
+  <!--<img src="https://img.shields.io/badge/ATM128A-%23239120.svg?style=flat&logo=c&logoColor=white"/></a>-->
   <a href="https://github.com/Hrangett/Linux_ububtu" target="_blank"><img alt="Linux"   src="https://img.shields.io/badge/Linux-%FCC624.svg?style=flat&logo=Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
