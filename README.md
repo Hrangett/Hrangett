@@ -60,3 +60,4 @@ Here are some ideas to get you started:
 - [C#] [C# 프로젝트](https://github.com/AellimSun/Cereal_ERP)
 - [ATM128A] [Microchip studio 를 이용한 ATM128A 실습](https://github.com/Hrangett/ATM128A_MicrochipStudio)
 - [Linux] [Ubuntu를 활용한 Linux 프로그래밍 실습](https://github.com/Hrangett/Linux_ububtu)
+- [Raspberrypi] [Raspberrypi와 Python을 활용한 프로그래밍 실습](https://github.com/Hrangett/Raspberry-pi)
