@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <!--<img src="https://img.shields.io/badge/ATM128A-%23239120.svg?style=flat&logo=c&logoColor=white"/></a>-->
   <a href="https://github.com/Hrangett/Linux_ububtu" target="_blank"><img alt="Linux"   src="https://img.shields.io/badge/Linux-%FCC624.svg?style=flat&logo=Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Raspberrypi-2478AB?style=flat-square&logo=Raspberrypi&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Raspberrypi-A22846?style=flat-square&logo=Raspberrypi&logoColor=white"/></a>&nbsp
 </p>
 
 ## Using Tools
