@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </p>
 
 # Project List
-- [WPF] [WPF프로젝트](https://github.com/Hrangett/Study-WPF/tree/main/portfolio)
+- [WPF] [C#을 이용한 WPF프로젝트](https://github.com/Hrangett/Study-WPF/tree/main/portfolio)
 - [C Language] [C언어 프로젝트](https://github.com/AellimSun/Cereal_ERP)
 - [C#] [C# 프로젝트](https://github.com/AellimSun/Cereal_ERP)
 - [ATM128A] [Microchip studio 를 이용한 ATM128A 실습](https://github.com/Hrangett/ATM128A_MicrochipStudio)
